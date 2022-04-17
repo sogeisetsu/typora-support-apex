@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-![stand with Ukraine](https://badgen.net/badge/stand%20with/UKRAINE/?color=0057B8&labelColor=FFD700) ![stand with Ukraine](https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700)
+![stand with Ukraine](https://badgen.net/badge/stand%20with/UKRAINE/?color=0057B8&labelColor=FFD700) ![stand with Ukraine](https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) ![GitHub](https://img.shields.io/github/license/sogeisetsu/typora-support-apex)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sogeisetsu/typora-support-apex) ![GitHub issues](https://img.shields.io/github/issues-raw/sogeisetsu/typora-support-apex) ![GitHub watchers](https://img.shields.io/github/watchers/sogeisetsu/typora-support-apex?style=social)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![GitHub last commit](https://img.shields.io/github/last-commit/sogeisetsu/typora-support-apex) 
 
 [中文版](README.zh_CN.md)
 
