@@ -10,4 +10,12 @@ By modifying the `resources\appsrc\window\frame.js` in the Typora installation d
 
 ## Install
 
+First, you need to get the modified `frame.js` that supports apex syntax. There are two ways to get it:
+
+1. Directly open and download [./frame.js](./frame.js) in this project.
+2. Download the compressed package in release and get the `frame.js` in the compressed package (recommended).
+
 ## Usage
+
+Replace the obtained modified `frame.js` with `resources\appsrc\window\frame.js` in the Typora installation directory to make your Typora support Apex syntax highlighting. If it does not work, please restart Typora.
+
